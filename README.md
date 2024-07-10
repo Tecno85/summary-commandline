@@ -118,5 +118,3 @@ Para moverte a una ubicación en Git Bash que contiene espacios en el nombre, pu
 ### Crear y eliminar comando alias
 
 - `alias`: Este comando me permite visualizar todos los comandos `alias` que han sido creados por el ususario. Su objetivo es crear `alias` para facilitar la creación de archivos. Un ejemplo: alias `hi="touch hola.txt"` esto me permite crear un archivo `hola.txt` solo escribiendo la palabra `hi`. Para eliminar un `alias`, se usa el comando `unalias` más espacio y el nombre del `alias` que se desea eliminar. Un ejemplo: `unalias hi`. De esta manera se elimina el `alias` `hi`. Estos `alias` se usan mucho sobre todo para comando que son muy largos.
-
-## prueba
